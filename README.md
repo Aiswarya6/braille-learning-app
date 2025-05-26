@@ -58,13 +58,4 @@ Braillr provides an accessible learning experience for visually impaired users b
 
 ---
 
-## Author
-
-**Aiswarya K**  
-B.Tech CSE,
-Indian Institute of Technology Jodhpur  
-GitHub: [@Aiswarya6](https://github.com/Aiswarya6)
-
----
-
 > This project demonstrates accessible design principles, interaction design, and user-focused thinking as part of a final-year academic submission.
